@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  margin: 50px 200px;
+  background-color: #fff;
+  overflow-x: hidden;
+}
+.navbar {
+  display: flex;
+  gap: 10rem;
+}
+input {
+  border: none;
+  width: 20rem;
+  height: 30px;
+  padding-top: 10px;
+}
+
+nav li {
+  list-style: none;
+}
+.navlist {
+  display: flex;
+  gap: 20px;
+}
+.navlist li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+}
+.login {
+  padding: 10px 20px;
+  background-color: #eb662b;
+  color: #fff !important;
+  border-radius: 15px;
+}
+
+.Second_section {
+  margin-top: 50px;
+}
+.Excursion {
+  display: flex;
+  gap: 840px;
+  color: #05073c;
+  font-size: 13px;
+}
+
+.Explore {
+  font-size: 1.5rem;
+  font-weight: bolder;
+  color: #05073c;
+  margin-top: 35px;
+}
+
+.frame {
+  display: flex;
+  margin-top: 30px;
+}
+
+.frame_left {
+  display: block;
+}
+.left1 {
+  background: #eb662b;
+  height: 120px;
+  width: 240px;
+  margin-left: 7px;
+}
+
+.left1 span {
+  font-size: 14px;
+  margin-left: 12px;
+}
+
+.placeholder {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.frame .frame_right {
+  justify-content: right;
+}
+
+.frame_right {
+  display: flex;
+}
+.right_content {
+  margin-left: 20px;
+}
+
+.top {
+  display: flex;
+  gap: 700px;
+  margin-bottom: 35px;
+}
+.top span {
+  color: #05073c;
+  margin-left: 5px;
+}
+
+.right1 {
+  margin-right: 25px;
+}
+
+.right1 img {
+  width: 240px;
+}
+.right_below_top {
+  display: flex;
+  margin-left: 15px;
+}
+
+.right2 {
+  width: 300px;
+  padding-top: 18px;
+}
+
+.right2 .first span{
+
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+
+.right2 .second h4{  
+  padding: 10px;
+
+}
+
+.right2 .third  span{padding-left: 89px;}
+
+.right2 .fourth  span{ padding: 10px}
+
+
+
+
+
+
+
+.right3{
+  margin-left: 180px;
+
+}
+
+.right3 div{padding: 10px;}
